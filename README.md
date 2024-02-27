@@ -66,4 +66,3 @@ npm test
 1. React
 2. Typescript
 
-# wolt_internship
