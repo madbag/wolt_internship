@@ -1,5 +1,3 @@
-# Delivery Fee Calculator 2024 - Frontend 
-
 # Wolt Engineering 2024 Assignment Solution for Internship
 
 This project is a solution for the Wolt Engineering 2024 Assignment, which involves calculating the delivery fee based on the instructions provided in the official [Wolt Engineering Summer Intern 2024 Assignment repository](https://github.com/woltapp/engineering-internship-2024).
@@ -66,4 +64,3 @@ npm test
 1. React
 2. Typescript
 
-# wolt_internship
